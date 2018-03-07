@@ -1,0 +1,130 @@
+\contentsline {section}{\numberline {1}Introducción}{10}{section.1}
+\contentsline {section}{\numberline {2}Procedimiento de aforo}{11}{section.2}
+\contentsline {section}{\numberline {3}Metodología de generación de la curva de descarga}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}Preparación de los datos.}{13}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Construcción de la curva de descarga.}{14}{subsection.3.2}
+\contentsline {section}{\numberline {4}Curvas de descarga de las estaciones de telemetría de la red hídrica de la ACER}{16}{section.4}
+\contentsline {section}{\numberline {5}Estado de las curvas de descarga de las estaciones telemétricas}{21}{section.5}
+\contentsline {section}{\numberline {6}Estación telemétrica Matriz Recoleta - Algarrobo (ID:1)}{23}{section.6}
+\contentsline {subsection}{\numberline {6.1}Estación de telemetría y sección de aforo}{23}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Curva de descarga}{24}{subsection.6.2}
+\contentsline {section}{\numberline {7}Estación telemétrica Matriz Tuquí Talhuén - Inicio (ID:2)}{26}{section.7}
+\contentsline {subsection}{\numberline {7.1}Estación de telemetría y sección de aforo}{26}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Curva de descarga}{27}{subsection.7.2}
+\contentsline {section}{\numberline {8}Estación telemétrica Matriz Tuquí Talhuén - Fin (ID:3)}{29}{section.8}
+\contentsline {subsection}{\numberline {8.1}Estación de telemetría y sección de aforo}{29}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Curva de descarga}{30}{subsection.8.2}
+\contentsline {section}{\numberline {9}Estación telemétrica Tuquí - Gato (ID:4)}{32}{section.9}
+\contentsline {subsection}{\numberline {9.1}Estación de telemetría y sección de aforo}{32}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Curva de descarga}{33}{subsection.9.2}
+\contentsline {section}{\numberline {10}Estación telemétrica Villaseca - El Rincón (ID:5)}{35}{section.10}
+\contentsline {subsection}{\numberline {10.1}Estación de telemetría y sección de aforo}{35}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Curva de descarga}{36}{subsection.10.2}
+\contentsline {section}{\numberline {11}Estación telemétrica Derivado Recoleta (ID:6)}{38}{section.11}
+\contentsline {subsection}{\numberline {11.1}Estación de telemetría y sección de aforo}{38}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Curva de descarga}{39}{subsection.11.2}
+\contentsline {section}{\numberline {12}Estación telemétrica Talhuén - Munizaga (ID:7)}{41}{section.12}
+\contentsline {subsection}{\numberline {12.1}Estación de telemetría y sección de aforo}{41}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Curva de descarga}{41}{subsection.12.2}
+\contentsline {section}{\numberline {13}Estación telemétrica Talhuén - Flor del Norte (ID:8)}{44}{section.13}
+\contentsline {subsection}{\numberline {13.1}Estación de telemetría y sección de aforo}{44}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}Curva de descarga}{45}{subsection.13.2}
+\contentsline {section}{\numberline {14}Estación telemétrica Colonia - Talhuén (ID:9)}{47}{section.14}
+\contentsline {subsection}{\numberline {14.1}Estación de telemetría y sección de aforo}{47}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Curva de descarga}{48}{subsection.14.2}
+\contentsline {section}{\numberline {15}Estación telemétrica Embalse El Uno - Entrada (ID:10)}{50}{section.15}
+\contentsline {subsection}{\numberline {15.1}Estación de telemetría y sección de aforo}{50}{subsection.15.1}
+\contentsline {subsection}{\numberline {15.2}Curva de descarga}{51}{subsection.15.2}
+\contentsline {section}{\numberline {16}Estación telemétrica Embalse El Uno - Salida (ID:11)}{53}{section.16}
+\contentsline {subsection}{\numberline {16.1}Estación de telemetría y sección de aforo}{53}{subsection.16.1}
+\contentsline {subsection}{\numberline {16.2}Curva de descarga}{54}{subsection.16.2}
+\contentsline {section}{\numberline {17}Estación telemétrica Flor Del Norte (ID:12)}{56}{section.17}
+\contentsline {subsection}{\numberline {17.1}Estación de telemetría y sección de aforo}{56}{subsection.17.1}
+\contentsline {subsection}{\numberline {17.2}Curva de descarga}{57}{subsection.17.2}
+\contentsline {section}{\numberline {18}Estación telemétrica Embalse El Seis - Entrada (ID:13)}{59}{section.18}
+\contentsline {subsection}{\numberline {18.1}Estación de telemetría y sección de aforo}{59}{subsection.18.1}
+\contentsline {subsection}{\numberline {18.2}Curva de descarga}{60}{subsection.18.2}
+\contentsline {section}{\numberline {19}Estación telemétrica Embalse El Seis - Salida (ID:14)}{62}{section.19}
+\contentsline {subsection}{\numberline {19.1}Estación de telemetría y sección de aforo}{62}{subsection.19.1}
+\contentsline {subsection}{\numberline {19.2}Curva de descarga}{63}{subsection.19.2}
+\contentsline {section}{\numberline {20}Estación telemétrica San Luis (ID:15)}{65}{section.20}
+\contentsline {subsection}{\numberline {20.1}Estación de telemetría y sección de aforo}{65}{subsection.20.1}
+\contentsline {subsection}{\numberline {20.2}Curva de descarga}{66}{subsection.20.2}
+\contentsline {section}{\numberline {21}Estación telemétrica Embalse El Nueve-Entrada (ID:16)}{68}{section.21}
+\contentsline {subsection}{\numberline {21.1}Estación de telemetría y sección de aforo}{68}{subsection.21.1}
+\contentsline {subsection}{\numberline {21.2}Curva de descarga}{69}{subsection.21.2}
+\contentsline {section}{\numberline {22}Estación telemétrica Embalse El Nueve-Salida (ID:17)}{71}{section.22}
+\contentsline {subsection}{\numberline {22.1}Estación de telemetría y sección de aforo}{71}{subsection.22.1}
+\contentsline {subsection}{\numberline {22.2}Curva de descarga}{72}{subsection.22.2}
+\contentsline {section}{\numberline {23}Estación telemétrica Villalón - La Placa (ID:18)}{74}{section.23}
+\contentsline {subsection}{\numberline {23.1}Estación de telemetría y sección de aforo}{74}{subsection.23.1}
+\contentsline {subsection}{\numberline {23.2}Curva de descarga}{75}{subsection.23.2}
+\contentsline {section}{\numberline {24}Estación telemétrica Villalón - Peñita Tamaya (ID:19)}{76}{section.24}
+\contentsline {subsection}{\numberline {24.1}Estación de telemetría y sección de aforo}{76}{subsection.24.1}
+\contentsline {subsection}{\numberline {24.2}Curva de descarga}{77}{subsection.24.2}
+\contentsline {section}{\numberline {25}Estación telemétrica Villalón - Entrada Embalse Concepción (ID:20)}{78}{section.25}
+\contentsline {subsection}{\numberline {25.1}Estación de telemetría y sección de aforo}{78}{subsection.25.1}
+\contentsline {subsection}{\numberline {25.2}Curva de descarga}{79}{subsection.25.2}
+\contentsline {section}{\numberline {26}Estación telemétrica Cerrillos Pobres - Peñita (ID:21)}{81}{section.26}
+\contentsline {subsection}{\numberline {26.1}Estación de telemetría y sección de aforo}{81}{subsection.26.1}
+\contentsline {subsection}{\numberline {26.2}Curva de descarga}{82}{subsection.26.2}
+\contentsline {section}{\numberline {27}Estación telemétrica El Olivo por Alcayaga (ID:22)}{84}{section.27}
+\contentsline {subsection}{\numberline {27.1}Estación de telemetría y sección de aforo}{84}{subsection.27.1}
+\contentsline {subsection}{\numberline {27.2}Curva de descarga}{85}{subsection.27.2}
+\contentsline {section}{\numberline {28}Estación telemétrica Cerrillos Pobres antes San Juan (ID:23)}{87}{section.28}
+\contentsline {subsection}{\numberline {28.1}Estación de telemetría y sección de aforo}{87}{subsection.28.1}
+\contentsline {subsection}{\numberline {28.2}Curva de descarga}{88}{subsection.28.2}
+\contentsline {section}{\numberline {29}Estación telemétrica San Juan por los Olivos (ID:24)}{90}{section.29}
+\contentsline {subsection}{\numberline {29.1}Estación de telemetría y sección de aforo}{90}{subsection.29.1}
+\contentsline {subsection}{\numberline {29.2}Curva de descarga}{91}{subsection.29.2}
+\contentsline {section}{\numberline {30}Estación telemétrica El Progreso (ID:25)}{93}{section.30}
+\contentsline {subsection}{\numberline {30.1}Estación de telemetría y sección de aforo}{93}{subsection.30.1}
+\contentsline {subsection}{\numberline {30.2}Curva de descarga}{94}{subsection.30.2}
+\contentsline {section}{\numberline {31}Estación telemétrica Embalse El Progreso - Salida (ID:26)}{96}{section.31}
+\contentsline {subsection}{\numberline {31.1}Estación de telemetría y sección de aforo}{96}{subsection.31.1}
+\contentsline {subsection}{\numberline {31.2}Curva de descarga}{97}{subsection.31.2}
+\contentsline {section}{\numberline {32}Estación telemétrica San Guillermo (ID:27)}{99}{section.32}
+\contentsline {subsection}{\numberline {32.1}Estación de telemetría y sección de aforo}{99}{subsection.32.1}
+\contentsline {subsection}{\numberline {32.2}Curva de descarga}{100}{subsection.32.2}
+\contentsline {section}{\numberline {33}Estación telemétrica Rumiñan (ID:28)}{102}{section.33}
+\contentsline {subsection}{\numberline {33.1}Estación de telemetría y sección de aforo}{102}{subsection.33.1}
+\contentsline {subsection}{\numberline {33.2}Curva de descarga}{103}{subsection.33.2}
+\contentsline {section}{\numberline {34}Estación telemétrica Embalse Rumiñan - Salida (ID:29)}{105}{section.34}
+\contentsline {subsection}{\numberline {34.1}Estación de telemetría y sección de aforo}{105}{subsection.34.1}
+\contentsline {subsection}{\numberline {34.2}Curva de descarga}{106}{subsection.34.2}
+\contentsline {section}{\numberline {35}Estación telemétrica San Antonio Izquierdo (ID:30)}{108}{section.35}
+\contentsline {subsection}{\numberline {35.1}Estación de telemetría y sección de aforo}{108}{subsection.35.1}
+\contentsline {subsection}{\numberline {35.2}Curva de descarga}{109}{subsection.35.2}
+\contentsline {section}{\numberline {36}Estación telemétrica El Romero (ID:31)}{111}{section.36}
+\contentsline {subsection}{\numberline {36.1}Estación de telemetría y sección de aforo}{111}{subsection.36.1}
+\contentsline {subsection}{\numberline {36.2}Curva de descarga}{112}{subsection.36.2}
+\contentsline {section}{\numberline {37}Estación telemétrica El Olivo (ID:32)}{114}{section.37}
+\contentsline {subsection}{\numberline {37.1}Estación de telemetría y sección de aforo}{114}{subsection.37.1}
+\contentsline {subsection}{\numberline {37.2}Curva de descarga}{115}{subsection.37.2}
+\contentsline {section}{\numberline {38}Estación telemétrica Embalse Rumay - Salida (ID:33)}{117}{section.38}
+\contentsline {subsection}{\numberline {38.1}Estación de telemetría y sección de aforo}{117}{subsection.38.1}
+\contentsline {subsection}{\numberline {38.2}Curva de descarga}{118}{subsection.38.2}
+\contentsline {section}{\numberline {39}Estación telemétrica San Guillermo colero (ID:34)}{120}{section.39}
+\contentsline {subsection}{\numberline {39.1}Estación de telemetría y sección de aforo}{120}{subsection.39.1}
+\contentsline {section}{\numberline {40}Estación telemétrica Arquería (ID:35)}{121}{section.40}
+\contentsline {subsection}{\numberline {40.1}Estación de telemetría y sección de aforo}{121}{subsection.40.1}
+\contentsline {section}{\numberline {41}Estación telemétrica El Churque - Entrada (ID:36)}{122}{section.41}
+\contentsline {subsection}{\numberline {41.1}Estación de telemetría y sección de aforo}{122}{subsection.41.1}
+\contentsline {subsection}{\numberline {41.2}Curva de descarga}{123}{subsection.41.2}
+\contentsline {section}{\numberline {42}Estación telemétrica Control Agrícola Tamaya (ID:37)}{125}{section.42}
+\contentsline {subsection}{\numberline {42.1}Estación de telemetría y sección de aforo}{125}{subsection.42.1}
+\contentsline {subsection}{\numberline {42.2}Curva de descarga}{126}{subsection.42.2}
+\contentsline {section}{\numberline {43}Estación telemétrica Antes de Entrega Rumay (ID:38)}{128}{section.43}
+\contentsline {subsection}{\numberline {43.1}Estación de telemetría y sección de aforo}{128}{subsection.43.1}
+\contentsline {section}{\numberline {44}Estación telemétrica Embalse Rumay - Entrada (ID:39)}{129}{section.44}
+\contentsline {subsection}{\numberline {44.1}Estación de telemetría y sección de aforo}{129}{subsection.44.1}
+\contentsline {subsection}{\numberline {44.2}Curva de descarga}{130}{subsection.44.2}
+\contentsline {section}{\numberline {45}Estación telemétrica Embalse Bandurrias - Entrada (ID:40)}{132}{section.45}
+\contentsline {subsection}{\numberline {45.1}Estación de telemetría y sección de aforo}{132}{subsection.45.1}
+\contentsline {section}{\numberline {46}Estación telemétrica Embalse Santa Cristina - Entrada (ID:41)}{133}{section.46}
+\contentsline {subsection}{\numberline {46.1}Estación de telemetría y sección de aforo}{133}{subsection.46.1}
+\contentsline {subsection}{\numberline {46.2}Curva de descarga}{133}{subsection.46.2}
+\contentsline {section}{\numberline {47}Estación telemétrica Embalse Santa Cristina - Salida (ID:42)}{136}{section.47}
+\contentsline {subsection}{\numberline {47.1}Estación de telemetría y sección de aforo}{136}{subsection.47.1}
+\contentsline {subsection}{\numberline {47.2}Curva de descarga}{137}{subsection.47.2}
+\contentsline {section}{\numberline {48}Anexos}{139}{section.48}
